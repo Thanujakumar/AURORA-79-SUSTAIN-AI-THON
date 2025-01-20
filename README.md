@@ -17,7 +17,7 @@ Below is the general workflow of the system:
 4. **Recommendations**:
    - Suggestions to optimize energy usage.
    - Notifications for high consumption or off-peak opportunities.
-[![Image](https://github.com/user-attachments/assets/59462806-f8be-46ce-ad2f-dc4de8c17fcf)](url)
+[![Image](https://github.com/user-attachments/assets/5355912e-65cc-49c6-a99b-b56fef1afe4b)](url)
 
 ---
 
@@ -35,7 +35,7 @@ The following concept map illustrates the relationships between various componen
    - Historical and predictive analysis.
 4. **User Interaction**:
    - Insights through dashboards or notifications.
-[![Image](https://github.com/user-attachments/assets/59462806-f8be-46ce-ad2f-dc4de8c17fcf)](url)
+[![Image](https://github.com/user-attachments/assets/5355912e-65cc-49c6-a99b-b56fef1afe4b)](url)
 
 ---
 
